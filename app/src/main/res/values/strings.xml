@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatheR</string>
+    <string name="btnUpdateText">Обновить</string>
+</resources>
