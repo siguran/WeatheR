@@ -39,7 +39,7 @@ public class MyApplication extends Application
                 mCityManager.get(0),
                 "952c234844b8eb6e044f37cc906bd3ad",
                 "ru",
-                60000);
+                900000);
     }
 }
 
